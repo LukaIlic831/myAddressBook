@@ -1,0 +1,22 @@
+[
+  {
+    "id": { "name": "AVS", "value": "18266799-e125-46cd-90b0-a3edccb0a9cb" },
+    "name": {
+      "first": "George",
+      "last": "Abitbol"
+    },
+    "email": "jacob.roy@example.com",
+    "picture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "login": {"username": "silverpanda259"}
+  },
+  {
+    "id": { "name": "AVS", "value": "756.1426.6983.61" },
+    "name": {
+      "first": "Ryan",
+      "last": "Weaver"
+    },
+    "email": "mhmdaaly.nkwnzr@example.com",
+    "picture": "https://randomuser.me/api/portraits/men/36.jpg",
+    "login": {"username": "ticklishmeercat664"}
+  }
+]
